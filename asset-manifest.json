@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://upasana108.github.io/csb-8i4mj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://upasana108.github.io/csb-8i4mj/static/js/main.34238875.chunk.js",
+    "main.js.map": "https://upasana108.github.io/csb-8i4mj/static/js/main.34238875.chunk.js.map",
+    "runtime-main.js": "https://upasana108.github.io/csb-8i4mj/static/js/runtime-main.b974235f.js",
+    "runtime-main.js.map": "https://upasana108.github.io/csb-8i4mj/static/js/runtime-main.b974235f.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://upasana108.github.io/csb-8i4mj/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://upasana108.github.io/csb-8i4mj/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://upasana108.github.io/csb-8i4mj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://upasana108.github.io/csb-8i4mj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://upasana108.github.io/csb-8i4mj/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b974235f.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.34238875.chunk.js"
+  ]
+}
